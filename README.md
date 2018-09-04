@@ -16,7 +16,7 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 - [Rpy2 & R-plots in Jupyter Notebooks](https://github.com/marsja/jupyter/blob/master/Rpy2%20and%20R%20plots%20in%20a%20Jupyter%20Notebook!.ipynb)
 
-- [Rpy2 Tutorial: Example](https://github.com/marsja/jupyter/blob/master/rpy2%20tutorial%20example%20code.ipynb)
+- [Rpy2 Tutorial: Example](https://github.com/marsja/jupyter/blob/master/rpy2%20tutorial%20example%20code.ipynb)([YouTube Video](https://www.youtube.com/watch?v=RK-n78ZOXUg))
 
 
 
