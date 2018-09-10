@@ -5,7 +5,7 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 - [Reversing Pandas Dataframe](https://github.com/marsja/jupyter/blob/master/reverse_pandas_dataframe.ipynb)
 
-- [Pandas Dataframe Tutorial: Working with Dataframes](https://github.com/marsja/jupyter/blob/master/reverse_pandas_dataframe.ipynb)
+- [Pandas Dataframe Tutorial: Working with Dataframes](https://github.com/marsja/jupyter/blob/master/working%20with%20pandas%20dataframe.ipynb)
 
 ### Data Visualization in Python: Code Examples
 
