@@ -11,6 +11,8 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 - [Kernel Estimation, Cumulative Distribution Function, Delta Plot, & Conditional Accuracy Function](https://github.com/marsja/jupyter/blob/master/kde-cdf-delta-caf-plots.ipynb)
 
+- [Python Data Visualization Tutorial: How to Create a Scatter Plot](https://github.com/marsja/jupyter/blob/master/Pandas%20Scatter%20Plot%20Tutorial.ipynb)
+
 
 ## Rpy2 Tutorial: Code Examples
 
