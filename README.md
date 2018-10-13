@@ -20,6 +20,12 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 - [Rpy2 Tutorial: Example](https://github.com/marsja/jupyter/blob/master/rpy2%20tutorial%20example%20code.ipynb) 
 
+## Python Data Analysis Tutorials
+
+### ANOVA in Python and R
+- [Repeated Measures ANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/Python%20repeated%20measures%20ANOVA.ipynb)
+
+
 
 
 
