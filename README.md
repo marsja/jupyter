@@ -25,6 +25,7 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 ### ANOVA in Python and R
 - [Repeated Measures ANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/Python%20repeated%20measures%20ANOVA.ipynb)
 
+- [Repeated Measures ANOVA in R: afex code example](https://github.com/marsja/jupyter/blob/master/Repeated%20measures%20ANOVA%20using%20R%20and%20afex.ipynb)
 
 
 
