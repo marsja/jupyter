@@ -7,6 +7,8 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 - [Pandas Dataframe Tutorial: Working with Dataframes](https://github.com/marsja/jupyter/blob/master/working%20with%20pandas%20dataframe.ipynb)
 
+- [Python Pandas JSON Tutorial](https://github.com/marsja/jupyter/blob/master/json_in_python_and_pandas.ipynb)
+
 ### Data Visualization in Python: Code Examples
 
 - [Kernel Estimation, Cumulative Distribution Function, Delta Plot, & Conditional Accuracy Function](https://github.com/marsja/jupyter/blob/master/kde-cdf-delta-caf-plots.ipynb)
