@@ -1,5 +1,5 @@
 ## Jupyter notebooks
-In this folder you will find Jupyter Notebooks containing code examples for many of my blogposts ([https://www.marsja.se](https://www.marsja.se)). There are also notebooks containing the code for some of my Videos on my [YouTube Channel](https://www.youtube.com/channel/UCFHeY1aOt-Y4FLZeG_IpJCA).
+In this folder you will find Jupyter Notebooks containing code examples for many of my blogposts ([https://www.marsja.se](https://www.marsja.se)). There are also notebooks containing the code for some of my Videos on my [YouTube Channel](https://www.youtube.com/channel/UCFHeY1aOt-Y4FLZeG_IpJCA). The main theme of the blog posts, right now, is data visualization, manipulation, and analysis using Python. For instance, you will find Pandas tutorials, Seaborn tutorials, and Statsmodels tutorials (e.g., Python ANOVA).
 
 ### Pandas DataFrame Tutorial: Jupyter Notebooks
 
@@ -11,7 +11,7 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 ### Data Visualization in Python: Code Examples
 
-- [Kernel Estimation, Cumulative Distribution Function, Delta Plot, & Conditional Accuracy Function](https://github.com/marsja/jupyter/blob/master/kde-cdf-delta-caf-plots.ipynb)
+- [Kernel Estimation, Cumulative Distribution Function, Delta Plot, & Conditional Accuracy Function](https://github.com/marsja/jupyter/blob/master/kde-cdf-delta-caf-plots.ipynb): Different data visualization techniques for response time data
 
 - [Python Data Visualization Tutorial: How to Create a Scatter Plot](https://github.com/marsja/jupyter/blob/master/Pandas%20Scatter%20Plot%20Tutorial.ipynb)
 
@@ -26,12 +26,14 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 ### ANOVA in Python and R
 
+#### Python ANOVA (Between Groups)
+
 - [One-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/pingouin-code-ANOVA-in-Python.ipynb)
 
 - [Two-Way ANOVA using Python and SciPy](https://github.com/marsja/jupyter/blob/master/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
 
 - [Two-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
 
-
+#### Python ANOVA (Within Group)
 - [Repeated Measures ANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/Python%20repeated%20measures%20ANOVA.ipynb)
 - [Repeated Measures ANOVA in R: afex code example](https://github.com/marsja/jupyter/blob/master/Repeated%20measures%20ANOVA%20using%20R%20and%20afex.ipynb)
