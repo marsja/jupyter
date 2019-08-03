@@ -28,12 +28,12 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 #### Python ANOVA (Between Groups)
 
-- [One-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/pingouin-code-ANOVA-in-Python.ipynb)
+- [One-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/pingouin-code-ANOVA-in-Python.ipynb)
 
-- [Two-Way ANOVA using Python and SciPy](https://github.com/marsja/jupyter/blob/master/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
+- [Two-Way ANOVA using Python and SciPy](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
 
-- [Two-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
+- [Two-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
 
 #### Python ANOVA (Within Group)
-- [Repeated Measures ANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/Python%20repeated%20measures%20ANOVA.ipynb)
-- [Repeated Measures ANOVA in R: afex code example](https://github.com/marsja/jupyter/blob/master/Repeated%20measures%20ANOVA%20using%20R%20and%20afex.ipynb)
+- [Repeated Measures ANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/Python%20repeated%20measures%20ANOVA.ipynb)
+- [Repeated Measures ANOVA in R: afex code example](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/Repeated%20measures%20ANOVA%20using%20R%20and%20afex.ipynb)
