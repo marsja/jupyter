@@ -30,6 +30,8 @@ In this folder you will find Jupyter Notebooks containing code examples for many
 
 - [One-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/pingouin-code-ANOVA-in-Python.ipynb)
 
+- [One-Way ANOVA using Scipy and Statsmodels](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/One_Way_Python_ANOVA.ipynb)
+
 - [Two-Way ANOVA using Python and SciPy](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
 
 - [Two-Way ANOVA using Pingouin Stats](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/Two_Way_ANOVA_in_Python_Tutorial.ipynb)
