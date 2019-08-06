@@ -17,7 +17,7 @@ Note books for different Data Visualization Tutorials:
 - [Kernel Estimation, Cumulative Distribution Function, Delta Plot, & Conditional Accuracy Function](https://github.com/marsja/jupyter/blob/master/kde-cdf-delta-caf-plots.ipynb): Different data visualization techniques for response time data
 
 - [Python Data Visualization Tutorial: How to Create a Scatter Plot](https://github.com/marsja/jupyter/blob/master/Pandas%20Scatter%20Plot%20Tutorial.ipynb)
-- [How to Make Scatter Plots using Python](https://github.com/marsja/jupyter/blob/master/Seaborn_Scatterplot_Tutorial_Example_Code.ipynb)
+- [How to Make Scatter Plots using Python](https://github.com/marsja/jupyter/blob/master/Seaborn_Scatterplot_Tutorial_Example_Code.ipynb) - Here we work with the following Seaborn methods: *scatterplot*, *regplot*, *lmpot*, and *pairplot*. We learn how to make scatter plots with regression lines, change the color and markers of Seaborn plots, rotate the ticks labels, and much more.
 
 
 ## Rpy2 Tutorial: Code Examples
