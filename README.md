@@ -31,6 +31,12 @@ Here are some Jupyter Notebooks for one Python package called Rpy2:
 ## Python Data Analysis Tutorials
 In this section we find the code examples, in form of Jupyter Notebooks, for the Python data analysis tutorials;
 
+### Descriptive Statistis in Python
+Here, there are some Jupyter Notebooks for carrying out summary statistics using
+Python, Pandas, Scipy, and other useful Python packages
+
+- [Descriptive Statistics in Python](https://github.com/marsja/jupyter/blob/master/descriptive_statistics_example_code.ipynb)
+
 ### ANOVA in Python and R
 Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out ANOVA using R.
 
