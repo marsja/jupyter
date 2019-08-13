@@ -18,6 +18,7 @@ Note books for different Data Visualization Tutorials:
 
 - [Python Data Visualization Tutorial: How to Create a Scatter Plot](https://github.com/marsja/jupyter/blob/master/Pandas%20Scatter%20Plot%20Tutorial.ipynb)
 - [How to Make Scatter Plots using Python](https://github.com/marsja/jupyter/blob/master/Seaborn_Scatterplot_Tutorial_Example_Code.ipynb) - Here we work with the following Seaborn methods: *scatterplot*, *regplot*, *lmpot*, and *pairplot*. We learn how to make scatter plots with regression lines, change the color and markers of Seaborn plots, rotate the ticks labels, and much more.
+- [Raincloud Plots in Python](https://github.com/marsja/jupyter/blob/master/Raincloud_Plots_in_Python.ipynb) Here's the example code from the Python data visualization tutorial on how to make raincloud plots in Python (YouTube Video)
 
 
 ## Rpy2 Tutorial: Code Examples
