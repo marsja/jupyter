@@ -7,7 +7,7 @@ Here are different Notebooks containing the code examples for some of the Pandas
 
 - [Reversing Pandas Dataframe](https://github.com/marsja/jupyter/blob/master/reverse_pandas_dataframe.ipynb)
 
-- [Pandas Dataframe Tutorial: Working with Dataframes](https://github.com/marsja/jupyter/blob/master/working%20with%20pandas%20dataframe.ipynb)
+- [Pandas Dataframe Tutorial: Working with Dataframes](https://github.com/marsja/jupyter/blob/master/Pandas_Dataframe_Tutorial_Example_Code.ipynb)
 
 - [Python Pandas JSON Tutorial](https://github.com/marsja/jupyter/blob/master/json_in_python_and_pandas.ipynb)
 
