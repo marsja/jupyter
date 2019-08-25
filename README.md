@@ -60,4 +60,4 @@ Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out
 - [Repeated Measures ANOVA in R: afex code example](https://github.com/marsja/jupyter/blob/master/Python_ANOVA/Repeated%20measures%20ANOVA%20using%20R%20and%20afex.ipynb)
 
 ### MANOVA in Python
--[One-Way MANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/MANOVA_Test_in_Python_Statsmodels_Example.ipynb) - This notebook contains the multivariate data analysis Multivariate Analysis of Variance (MANOVA)
+- [One-Way MANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/MANOVA_Test_in_Python_Statsmodels_Example.ipynb) - This notebook contains the multivariate data analysis Multivariate Analysis of Variance (MANOVA)
