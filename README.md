@@ -11,7 +11,9 @@ Here are different Notebooks containing the code examples for some of the Pandas
 
 - [Python Pandas JSON Tutorial](https://github.com/marsja/jupyter/blob/master/json_in_python_and_pandas.ipynb)
 
-- [Data Cleansing With Pandas and Pyjanitor] (https://github.com/marsja/jupyter/blob/master/pyjanitor_data_cleaning_adding_columns_removing_columns_pandas.ipynb) - In this notebook code examples on how to delete missing values, remove empty columns, clean column names (i.e., rename columns) and so on can be found.
+- [Data Cleansing With Pandas and Pyjanitor](https://github.com/marsja/jupyter/blob/master/pyjanitor_data_cleaning_adding_columns_removing_columns_pandas.ipynb) - In this notebook code examples on how to delete missing values, remove empty columns, clean column names (i.e., rename columns) and so on can be found.
+
+- [Read SPSS files in Python](https://github.com/marsja/jupyter/blob/master/how_to_read_SPSS_sav_files_in_Python.ipynb) - Learn how to load .sav files into Pandas dataframes.
 
 ### Data Visualization in Python: Code Examples
 Note books for different Data Visualization Tutorials:
