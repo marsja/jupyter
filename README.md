@@ -15,6 +15,11 @@ Here are different Notebooks containing the code examples for some of the Pandas
 
 - [Read SPSS files in Python](https://github.com/marsja/jupyter/blob/master/how_to_read_SPSS_sav_files_in_Python.ipynb) - Learn how to load .sav files into Pandas dataframes.
 
+### Working with DataFrame
+Here you will find Jupyter notebooks, both R and Python right now, that focuses on how to work with data in specific ways.
+
+- [How to Reverse Code in R](https://github.com/marsja/jupyter/blob/master/R_Notebooks/reverse_coding_in_R.ipynb) - An R note book for learning how to reverse scores from a questionnaire using R and the package psych. 
+
 ### Data Visualization in Python: Code Examples
 Note books for different Data Visualization Tutorials:
 
