@@ -18,7 +18,7 @@ Here are different Notebooks containing the code examples for some of the Pandas
 ### Working with DataFrame
 Here you will find Jupyter notebooks, both R and Python right now, that focuses on how to work with data in specific ways.
 
-- [How to Reverse Code in R](https://github.com/marsja/jupyter/blob/master/R_Notebooks/reverse_coding_in_R.ipynb) - An R note book for learning how to reverse scores from a questionnaire using R and the package psych. 
+- [How to Reverse Code in R](https://github.com/marsja/jupyter/blob/master/R_Notebooks/reverse_coding_in_R.ipynb) - An R note book for learning how to reverse scores from a questionnaire using R and the package psych.
 
 ### Data Visualization in Python: Code Examples
 Note books for different Data Visualization Tutorials:
@@ -29,6 +29,9 @@ Note books for different Data Visualization Tutorials:
 - [How to Make Scatter Plots using Python](https://github.com/marsja/jupyter/blob/master/Seaborn_Scatterplot_Tutorial_Example_Code.ipynb) - Here we work with the following Seaborn methods: *scatterplot*, *regplot*, *lmpot*, and *pairplot*. We learn how to make scatter plots with regression lines, change the color and markers of Seaborn plots, rotate the ticks labels, and much more.
 - [Raincloud Plots in Python](https://github.com/marsja/jupyter/blob/master/Raincloud_Plots_in_Python.ipynb) Here's the example code from the Python data visualization tutorial on how to make raincloud plots in Python (YouTube Video)
 
+### Data Visualization in R: Code examples
+
+- [Scatterplots in R using ggplot2](https://github.com/marsja/jupyter/blob/master/R_Notebooks/scatter_plot_in_R_tutorial.ipynb) - Notebook containing code examples on how to create scatter plots using ggplot2.
 
 ## Rpy2 Tutorial: Code Examples
 For some data analysis techniques we may want to use R. This because it may not yet be implemented in Python.
