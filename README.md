@@ -71,3 +71,8 @@ Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out
 
 ### MANOVA in Python
 - [One-Way MANOVA using Statsmodels](https://github.com/marsja/jupyter/blob/master/MANOVA_Test_in_Python_Statsmodels_Example.ipynb) - This notebook contains the multivariate data analysis Multivariate Analysis of Variance (MANOVA)
+
+### Other
+Tutorials, guides, and how tos (both Python and R) that doesn't fit into the above categories
+
+- [Convert HTML to Jupyter notebook](https://github.com/marsja/jupyter/blob/master/convert_html_jupyter_notebook_tutorial.ipynb) - Code to convert HTML (e.g., code within code tags) to .ipynb files that can be run
