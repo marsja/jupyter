@@ -15,10 +15,14 @@ Here are different Notebooks containing the code examples for some of the Pandas
 
 - [Read SPSS files in Python](https://github.com/marsja/jupyter/blob/master/how_to_read_SPSS_sav_files_in_Python.ipynb) - Learn how to load .sav files into Pandas dataframes.
 
+- [Converting a Dictionary to a Pandas Dataframe](https://github.com/marsja/jupyter/blob/master/how_to_convert_a_dictionary_to_pandas_dataframe.ipynb)
+- [How to Print the Columns Names in a Pandas dataframe](https://github.com/marsja/jupyter/blob/master/how-to-get-column-names-Pandas-python.ipynb)
+
 ### Working with DataFrame
 Here you will find Jupyter notebooks, both R and Python right now, that focuses on how to work with data in specific ways.
 
 - [How to Reverse Code in R](https://github.com/marsja/jupyter/blob/master/R_Notebooks/reverse_coding_in_R.ipynb) - An R note book for learning how to reverse scores from a questionnaire using R and the package psych.
+-[Create Dummy Variables in Python with Pandas](https://github.com/marsja/jupyter/blob/master/pandas_get_dummies_how_to_create_dummy_variables.ipynb)
 
 ### Data Visualization in Python: Code Examples
 Note books for different Data Visualization Tutorials:
@@ -28,6 +32,8 @@ Note books for different Data Visualization Tutorials:
 - [Python Data Visualization Tutorial: How to Create a Scatter Plot](https://github.com/marsja/jupyter/blob/master/Pandas%20Scatter%20Plot%20Tutorial.ipynb)
 - [How to Make Scatter Plots using Python](https://github.com/marsja/jupyter/blob/master/Seaborn_Scatterplot_Tutorial_Example_Code.ipynb) - Here we work with the following Seaborn methods: *scatterplot*, *regplot*, *lmpot*, and *pairplot*. We learn how to make scatter plots with regression lines, change the color and markers of Seaborn plots, rotate the ticks labels, and much more.
 - [Raincloud Plots in Python](https://github.com/marsja/jupyter/blob/master/Raincloud_Plots_in_Python.ipynb) Here's the example code from the Python data visualization tutorial on how to make raincloud plots in Python (YouTube Video)
+- [How to make a Histogram in Python with Pandas](https://github.com/marsja/jupyter/blob/master/how-to-make-histogram-in-pandas-python.ipynb)
+
 
 ### Data Visualization in R: Code examples
 
@@ -44,11 +50,12 @@ Here are some Jupyter Notebooks for one Python package called Rpy2:
 ## Python Data Analysis Tutorials
 In this section we find the code examples, in form of Jupyter Notebooks, for the Python data analysis tutorials;
 
-### Descriptive Statistis in Python
+### Descriptive Statistics in Python
 Here, there are some Jupyter Notebooks for carrying out summary statistics using
 Python, Pandas, Scipy, and other useful Python packages
 
 - [Descriptive Statistics in Python](https://github.com/marsja/jupyter/blob/master/descriptive_statistics_example_code.ipynb)
+- [Correlation Matrix in Python](https://github.com/marsja/jupyter/blob/master/correlation_matrix_in_python.ipynb)
 
 ### ANOVA in Python and R
 Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out ANOVA using R.
