@@ -57,6 +57,9 @@ Python, Pandas, Scipy, and other useful Python packages
 - [Descriptive Statistics in Python](https://github.com/marsja/jupyter/blob/master/descriptive_statistics_example_code.ipynb)
 - [Correlation Matrix in Python](https://github.com/marsja/jupyter/blob/master/correlation_matrix_in_python.ipynb)
 
+### T-test
+- [Two-Sample T-test in Python](https://github.com/marsja/jupyter/blob/master/two_sample_t-test_Python.ipynb)
+
 ### ANOVA in Python and R
 Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out ANOVA using R.
 
