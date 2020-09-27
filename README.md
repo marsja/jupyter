@@ -60,6 +60,7 @@ Python, Pandas, Scipy, and other useful Python packages
 ### T-test
 - [Two-Sample T-test in Python](https://github.com/marsja/jupyter/blob/master/two_sample_t-test_Python.ipynb)
 
+
 ### ANOVA in Python and R
 Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out ANOVA using R.
 
@@ -86,3 +87,5 @@ Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out
 Tutorials, guides, and how tos (both Python and R) that doesn't fit into the above categories
 
 - [Convert HTML to Jupyter notebook](https://github.com/marsja/jupyter/blob/master/convert_html_jupyter_notebook_tutorial.ipynb) - Code to convert HTML (e.g., code within code tags) to .ipynb files that can be run
+
+- [Convert Float Array to Integer Array Python](https://github.com/marsja/jupyter/blob/master/convert_numpy_float_array_to_integer_array_Python.ipynb) - Code to convert a NumPy float Array to an Integer Array
