@@ -48,7 +48,7 @@ Here are some Jupyter Notebooks for one Python package called Rpy2:
 - [Rpy2 Tutorial: Example](https://github.com/marsja/jupyter/blob/master/rpy2%20tutorial%20example%20code.ipynb)
 
 ## Python Data Analysis Tutorials
-In this section we find the code examples, in form of Jupyter Notebooks, for the Python data analysis tutorials;
+In this section, we find the code examples, in the form of Jupyter Notebooks, for the Python data analysis tutorials;
 
 ### Descriptive Statistics in Python
 Here, there are some Jupyter Notebooks for carrying out summary statistics using
@@ -85,6 +85,8 @@ Here we have Python ANOVA Notebooks. There is also one Notebook for carrying out
 
 ### Other
 Tutorials, guides, and how tos (both Python and R) that doesn't fit into the above categories
+
+- [Get Max Value in Dictionary in Python](https://github.com/marsja/jupyter/blob/master/getting_the_highest_value_from_dictionary.ipynb)
 
 - [Convert HTML to Jupyter notebook](https://github.com/marsja/jupyter/blob/master/convert_html_jupyter_notebook_tutorial.ipynb) - Code to convert HTML (e.g., code within code tags) to .ipynb files that can be run
 
